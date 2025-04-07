@@ -1,6 +1,8 @@
 <img width= 100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=&color=120a8f&section=header&reversal=false&animation=twinkling">
 
-Olá Mundo!  <img width= 16px src="Assets/Earth.gif">  Eu sou Kaique Tsimitakis
+<div>
+  <h display: flex; justify-content:center; align-items: center;> Olá Mundo!  <img width= 16px src="Assets/Earth.gif">  Eu sou Kaique Tsimitakis </h>
+</div>
 
 <img width= 100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=&color=120a8f&section=footer&reversal=false&animation=twinkling">
 <!--![Uploading pixel_earth_by_catgbp1990_dbvyn33.gif…]()
