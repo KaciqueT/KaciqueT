@@ -1,6 +1,6 @@
 <img width= 100% src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&section=header&reversal=false&animation=twinkling">
 
-## Hi there 👋
+Hi there <img width= 100% src="[https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&section=header&reversal=false&animation=twinkling](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9d8370df-da3f-4ff1-abe1-6f3340f55f4b/dbvyn33-06a1853b-6318-4def-89ee-4e25d3b6103a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzlkODM3MGRmLWRhM2YtNGZmMS1hYmUxLTZmMzM0MGY1NWY0YlwvZGJ2eW4zMy0wNmExODUzYi02MzE4LTRkZWYtODllZS00ZTI1ZDNiNjEwM2EuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7sPwLOxwVdv5h7RQP0t6fa6jU38Heet-NkF4KA5ZLYw)">
 
 <!--
 **KaciqueT/KaciqueT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
