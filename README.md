@@ -6,6 +6,7 @@
 
 <div align = "center">
     <a href="https://www.linkedin.com/in/kaique-tsimitakis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://kaiquetsimitakis.my.canva.site/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank"></a> 
 </div>
 
 <div align="center">
