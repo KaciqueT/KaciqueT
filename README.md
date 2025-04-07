@@ -4,6 +4,10 @@
   <h> Olá Mundo!  <img width= 16px src="Assets/Earth.gif">  Eu sou Kaique Tsimitakis </h>
 </div>
 
+<div align = "center">
+  <img width= 100% src="[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-tsimitakis/)">
+</div>
+
 <div align="center">
   <br><p align="center"><b>Quantidade de visitantes</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{KaciqueT}/count.svg"/></p> 
