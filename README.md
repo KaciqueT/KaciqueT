@@ -1,6 +1,7 @@
 <img width= 100% src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&section=header&reversal=false&animation=twinkling">
 
-Hi there <img width= 100% src="pixel_earth_by_catgbp1990_dbvyn33](https://github.com/user-attachments/assets/fe8e91df-95eb-4b47-8c4f-4db145d223cd">
+
+Hi there <img width= 100% src="![pixel_earth_by_catgbp1990_dbvyn33](https://github.com/user-attachments/assets/44bdf5d9-e5a8-4de6-be2a-ec5b113af7a2)">
 
 <!--![Uploading pixel_earth_by_catgbp1990_dbvyn33.gif…]()
 
