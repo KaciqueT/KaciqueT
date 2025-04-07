@@ -1,4 +1,4 @@
-<img width= 100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=header&reversal=false&animation=twinkling">
+<img width= 100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&reversal=false&animation=twinkling">
 
 Hello World <img width= 16px src="Assets/Earth.gif">
 
