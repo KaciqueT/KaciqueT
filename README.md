@@ -6,7 +6,7 @@
 
 <div align="center">
   <br><p align="center"><b>Quantidade de visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/%KaciqueT%7D/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/%KaciqueT%7D/count.svg"/></p> 
   <br>
 </div>
 
