@@ -73,10 +73,4 @@
 </tr>
 </table>
 
-<picture align="center" >
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larialbu/KaciqueT/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larialbu/KaciqueT/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KaciqueT/KaciqueT/output/github-contribution-grid-snake.svg">
-</picture>
-
 <img width= 100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=&color=120a8f&section=footer&reversal=false&animation=twinkling">
