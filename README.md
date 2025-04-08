@@ -2,9 +2,10 @@
 
 ---
 <div align="center">
-  ## <h2> Olá Mundo!  <img width= 20px src="Assets/Earth.gif">  Eu sou Kaique Tsimitakis </h2>
+  <h2> Olá Mundo!  <img width= 22px src="Assets/Earth.gif">  Eu sou Kaique Tsimitakis <img width= 22px src="Assets/Hi.gif"> </h2>
   👨‍💻 Sou um desenvolvedor junior apaixonado por tecnologia que não consegue mais acordar sem uma tela. <br>
-  🎓 Formado em ADS no IFSP-BRA.
+  🎓 Formado em ADS no IFSP-BRA. <br>
+  💾 Atualmente aprendendo Wordpress.
 
 </div>
 
