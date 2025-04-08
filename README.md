@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div space= 200px align="center">
   <h2> Olá Mundo!  <img width= 22px src="Assets/Earth.gif">  Eu sou Kaique Tsimitakis <img width= 22px src="Assets/Hi.gif"> </h2>
-  👨‍💻 Sou um desenvolvedor junior apaixonado por tecnologia que não consegue mais acordar sem uma tela. <br>
+  👨‍💻 Sou um desenvolvedor junior apaixonado por tecnologia que gosta de ser o resolvedor de problemas. <br>
   🎓 Formado em Análise e Desenvolvimento de Sistemas no IFSP-BRA. <br>
   💽 Atualmente aprendendo Wordpress. <br>
 </div>&nbsp;
