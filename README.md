@@ -1,12 +1,11 @@
 <img width= 100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=&color=120a8f&section=header&reversal=false&animation=twinkling">
 
 ---
-<div align="center">
+<div space= 200px align="center">
   <h2> Olá Mundo!  <img width= 22px src="Assets/Earth.gif">  Eu sou Kaique Tsimitakis <img width= 22px src="Assets/Hi.gif"> </h2>
   👨‍💻 Sou um desenvolvedor junior apaixonado por tecnologia que não consegue mais acordar sem uma tela. <br>
-  🎓 Formado em ADS no IFSP-BRA. <br>
-  💾 Atualmente aprendendo Wordpress.
-
+  🎓 Formado em Análise e Desenvolvimento de Sistemas no IFSP-BRA. <br>
+  💽 Atualmente aprendendo Wordpress. <br>
 </div>
 
 <div align = "center">
