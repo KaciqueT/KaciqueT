@@ -59,6 +59,24 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 <br>
 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="30">&nbsp; ***Estatísticas do Github***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<table align="center">
+<tr>
+<td width="50%" align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaciqueT&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
+</td>
+<td width="50%" align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaciqueT&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</td>
+</tr>
+</table>
+
+<picture align="center" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larialbu/KaciqueT/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larialbu/KaciqueT/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KaciqueT/KaciqueT/output/github-contribution-grid-snake.svg">
+</picture>
 
 <img width= 100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=&color=120a8f&section=footer&reversal=false&animation=twinkling">
