@@ -22,13 +22,13 @@
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" width=450px alt="Unicorn" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHAzeGpzcTZhcW4weGJzdnpwY3diYnNqd3lzeHZuY250YmR3MXBydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XbZ1FZ4xtzDKE/giphy.gif"/>
-
 ###### Linguagens de Programação:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+
+<img align="right" width=450px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNkcTlrMm9zNDRtMHJwMjgyajQ3ZzR5YmhzdWUzd29lejg4YmJtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QfvoEfKgqjyTu/giphy.gif"/>
 
 ###### Bibliotecas e Frameworks:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
