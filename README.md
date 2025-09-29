@@ -27,6 +27,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <img align="right" width=450px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNkcTlrMm9zNDRtMHJwMjgyajQ3ZzR5YmhzdWUzd29lejg4YmJtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QfvoEfKgqjyTu/giphy.gif"/>
 
