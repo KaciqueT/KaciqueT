@@ -15,7 +15,7 @@
 
 <div align="center">
   <br><p align="center"><b>Quantidade de visitantes</b></p>  
-  <p align="center">👉🏼<img src="https://profile-counter.deno.dev/KaciqueT/count.svg" alt="Key:: Visitor's Count" />👈🏼</p>
+  <p align="center"><img src="https://profile-counter.deno.dev/KaciqueT/count.svg" alt="Key:: Visitor's Count" /></p>
   <br>
 </div>
 
