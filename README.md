@@ -15,7 +15,7 @@
 
 <div align="center">
   <br><p align="center"><b>Quantidade de visitantes</b></p>  
-  <p align="center">👉🏼<img align="center" src="https://profile-counter.glitch.me/{KaciqueT}/count.svg"/>👈🏼</p>
+  <p align="center">👉🏼<img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />👈🏼</p>
   <br>
 </div>
 
